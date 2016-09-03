@@ -18,3 +18,6 @@ github_username:  crudbetter
 
 # Build settings
 markdown: kramdown
+
+# Google services
+google_analytics: UA-83644248-1
