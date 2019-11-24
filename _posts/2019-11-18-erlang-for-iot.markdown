@@ -97,4 +97,4 @@ This design has fault tolerance baked in. If the switchboard process fails, it i
 
 ### Conclusion
 
-Whislt there's plenty more I could cover, that's about it for now. Hopefully I've conveyed some of the key benefits to using Erlang for IoT platforms, such that you're encouraged to learn more. If you'd like to do that or take a look the demo platform in action, please reach out to me on [mike@crudbetter.com](mailto:mike@crudbetter.com).
+Whilst there's plenty more I could cover, that's about it for now. Hopefully I've conveyed some of the key benefits to using Erlang for IoT platforms, such that you're encouraged to learn more. If you'd like to do that or take a look the demo platform in action, please reach out to me on [mike@crudbetter.com](mailto:mike@crudbetter.com).
