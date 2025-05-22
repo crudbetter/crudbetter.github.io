@@ -9,11 +9,9 @@
 title: Mike Godfrey
 email: mike@crudbetter.com
 description: > # this means to ignore newlines until "baseurl:"
-  Full stack software developer with a keen interest in data management and visualization for smart city solution providers.
-  Currently using JavaScript and Elixir to get the job done.
+  Full stack polyglot software engineer. Highly experienced. Quickly proficient in new languages, technologies and paradigms.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://crudbetter.com" # the base hostname & protocol for your site
-twitter_username: crudbetter
 github_username:  crudbetter
 
 # Build settings
